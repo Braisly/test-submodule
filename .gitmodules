@@ -1,0 +1,3 @@
+[submodule "completable-future"]
+	path = completable-future
+	url = https://github.com/Braisly/completable-future
